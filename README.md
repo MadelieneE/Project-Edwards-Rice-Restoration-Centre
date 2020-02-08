@@ -7,6 +7,6 @@ The aim of this project will be to devolop a website and marketing Scheme for th
 
 _________________________________________
 
-CONTRIBUTERS: <br>
+CONTRIBUTORS: <br>
 Madeliene Edwards<br>
 Jack Brennan
